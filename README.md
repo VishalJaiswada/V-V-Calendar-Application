@@ -1,7 +1,5 @@
 # Calendar Application for Communication Tracking
 
-![Application Preview](https://v-v-calendar-application.vercel.app/)
-
 This is a **React-based Calendar Application** designed to efficiently track and manage communications with companies. It includes features like company management, communication tracking, notifications for overdue tasks, and more, providing a user-friendly interface to streamline follow-ups and maintain professional relationships.
 
 ---
