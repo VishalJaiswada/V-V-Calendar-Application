@@ -1,6 +1,6 @@
 # Calendar Application for Communication Tracking
 
-![Application Preview](https://your-live-app-image-url.com)
+![Application Preview](https://v-v-calendar-application.vercel.app/)
 
 This is a **React-based Calendar Application** designed to efficiently track and manage communications with companies. It includes features like company management, communication tracking, notifications for overdue tasks, and more, providing a user-friendly interface to streamline follow-ups and maintain professional relationships.
 
@@ -8,7 +8,7 @@ This is a **React-based Calendar Application** designed to efficiently track and
 
 ## **Live Demo**
 
-Explore the live version of this project: [Calendar Application](https://your-live-app-url.com)
+Explore the live version of this project: [Calendar Application](https://v-v-calendar-application.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@ Deploy the application on platforms like Vercel, Netlify, or GitHub Pages.
 
 ## **Project Links**
 
-- **Live Demo:** [https://your-live-app-url.com](https://your-live-app-url.com)
+- **Live Demo:** [https://v-v-calendar-application.vercel.app/](https://v-v-calendar-application.vercel.app/)
 - **GitHub Repository:** [https://github.com/VishalJaiswada/V-V-Calendar-Application.git](https://github.com/VishalJaiswada/V-V-Calendar-Application.git)
 - **LinkedIn Profile:** [https://www.linkedin.com/in/vishal-patel-71084a235/](https://www.linkedin.com/in/vishal-patel-71084a235/)
 
@@ -114,8 +114,8 @@ calendar-application/
 
 ## **Screenshots**
 
-![Calendar]("Calendar Application ENTNT\image1.png")
-![Report]("Calendar Application ENTNT\image2.png")
+![Calendar](https://v-v-calendar-application.vercel.app/)
+![Report](https://v-v-calendar-application.vercel.app/)
 *Example of the Dashboard showing communication tracking.*
 
 ---
