@@ -114,8 +114,8 @@ calendar-application/
 
 ## **Screenshots**
 
-![Calendar](Calendar Application ENTNT\image1.png)
-![Report](Calendar Application ENTNT\image2.png)
+![Calendar]("Calendar Application ENTNT\image1.png")
+![Report]("Calendar Application ENTNT\image2.png")
 *Example of the Dashboard showing communication tracking.*
 
 ---
